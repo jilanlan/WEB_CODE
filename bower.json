@@ -1,0 +1,21 @@
+{
+  "name": "WEB_CODE",
+  "description": "`git clone xxxxxx.git`",
+  "main": "index.js",
+  "authors": [
+    "jilanlan <1196903897@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/jilanlan/WEB_CODE",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "bootstrap": "~3.0.3"
+  }
+}
